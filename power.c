@@ -2,9 +2,6 @@
 #include <math.h>
 void printPowerSet(char *set, int set_size)
 {
-    printf("Ansh Maurya\n");
-    printf("210032010029\n");
-    printf("CSE-A\n");
     unsigned int pow_set_size = pow(2, set_size);
     int counter, j;
     for(counter = 0; counter < pow_set_size; counter++)
