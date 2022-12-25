@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Ansh Maurya\n");
-    printf("210032010029\n");
-    printf("CSE-A\n");
     int a [100],b[100],m,n,i,j;
     printf("enter the value of m and n \n");
     scanf("%d%d",&m,&n);
