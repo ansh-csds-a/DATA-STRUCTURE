@@ -1,9 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Ansh Maurya\n");
-    printf("210032010029\n");
-    printf("CSE-A\n");
     int a[50], b[50], c[50], fl = 0;
     int i, j, n, m, k;
     printf("Enter the number of elements in first set:\n");
